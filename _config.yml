@@ -16,7 +16,7 @@ timezone:
 
 title: trinh hung # the main title
 
-tagline: trinh hung # it will display as the subtitle
+tagline: học tập # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -41,8 +41,8 @@ social:
     - https://x.com/Trinhhung1095 # change to your Twitter homepage
     - https://trinhhung1095.github.io # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/trinhhung1095/
-    # - https://www.linkedin.com/in/username
+    # - https://www.facebook.com/trinhhung1095
+    # - https://www.facebook.com/trinhhung1095
 
 # Site Verification Settings
 webmaster_verifications:
