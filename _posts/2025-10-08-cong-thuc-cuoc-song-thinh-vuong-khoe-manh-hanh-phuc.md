@@ -3,7 +3,7 @@ title: "Công Thức Cuộc Sống Thịnh Vượng Khoẻ Mạnh Hạnh Phúc"
 date: 2025-10-08 21:30:00 +0800
 categories: [Phát triển bản thân]
 tags: [hạnh phúc, sức khỏe, giàu có, Naval Ravikant]
-image: /assets/img/cong-thuc-cuoc-song.jpg
+image: "https://trinhhung1095.github.io/assets/img/cong-thuc-cuoc-song.jpg"
 ---
 > “Hạnh phúc = Sức khỏe + Giàu có + Mối quan hệ tốt.”  
 > — Naval Ravikant
