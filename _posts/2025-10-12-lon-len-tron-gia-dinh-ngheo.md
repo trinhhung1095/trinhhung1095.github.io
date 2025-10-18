@@ -129,7 +129,7 @@ Sự thay đổi xảy ra vào một ngày nọ, anh ấy đi ngang qua một ti
 
 Nhưng anh ấy nói đó là miếng bánh ngọt ngào nhất trong cuộc đời anh ấy, bởi vì cuối cùng anh ấy cũng cảm thấy mình xứng đáng được hưởng.
 
-Lớn lên trong gia đình nghèo không phải là lỗi của bạn, nhưng tiếp tục đối xử với bản thân theo cách của người nghèo là sự tự hành hạ.
+Lớn lên trong gia đình nghèo không phải là lỗi của bạn, nhưng tiếp tục đối xử với bản thân theo cách của người nghèo là sự tự hành hạ. 
 
 Hãy nhớ rằng, mỗi đồng tiền bạn kiếm được bây giờ, đều là để chữa lành cho đứa trẻ đã từng trốn sau cánh cửa nhìn người khác ăn quà vặt.
 
